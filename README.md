@@ -1,4 +1,7 @@
 # LifeLine_Hackinit
+
+https://prezi.com/j9ap8b2qxuua/present/?auth_key=akohlu7&follow=uaunvdbsbuje&kw=present-j9ap8b2qxuua&rc=ref-199434318
+
 Lifeline is a healthcare initiative created by our team Hackkiddies. It streamlines the highly scattered blood availbility process and blood request process with the objective of providing both patient and hospital the blood through which "LifeLine" of patient begins. It brings the different platforms of blood transfusion ecosystem i.e. Bloodbanks, Hospitals and Patients on one platform. 
 
 It will increase lifesaving Chance of patients as each second in valuable in life and death situation 
